@@ -1,0 +1,50 @@
+--index.html
+Header: GeoCatch
+
+Nav:
+- Home # 3D model and 2D survery
+- Facts
+- Forum
+- Collaborate
+
+Body:
+
+Footer: Copyright © GovHack 2023
+--
+
+--facts.html
+Header: GeoCatch
+
+Nav:
+- Home # 3D model and 2D survery
+- Facts
+- Forum
+- Collaborate
+
+Footer: Copyright © GovHack 2023
+--
+
+--forum.html
+Header: GeoCatch
+
+Nav:
+- Home # 3D model and 2D survery
+- Facts
+- Forum
+- Collaborate
+
+Footer: Copyright © GovHack 2023
+--
+
+--collaborate.html
+Header: GeoCatch
+
+Nav:
+- Home # 3D model and 2D survery
+- Facts
+- Forum
+- Collaborate
+
+Footer: Copyright © GovHack 2023
+--
+
