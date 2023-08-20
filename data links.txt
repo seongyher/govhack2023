@@ -1,0 +1,10 @@
+#1:
+https://ccc.govt.nz/services/water-and-drainage/stormwater-and-drainage/flooding/floorlevelmap
+#2:
+https://gis.ccc.govt.nz/hazard-viewer/
+#3:
+https://searise.takiwa.co/map/6233f47872b8190018373db9/embed
+#4:
+https://environment.govt.nz/assets/publications/Files/Interim-guidance-on-the-use-of-new-sea-level-rise-projections-August-2022.pdf
+#5:
+https://data.linz.govt.nz/layer/109641-canterbury-christchurch-1m-dem-2020-2021/

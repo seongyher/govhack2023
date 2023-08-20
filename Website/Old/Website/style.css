@@ -1,0 +1,92 @@
+/* default */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ded6ee;
+  color: black;
+}
+/* img */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Main sections */
+#page-head-title, #page-footer {
+  background-color: #16302B;
+  color: white;
+}
+#page-head-img {
+  width: 10%;
+}
+
+/* Navigation */
+#page-nav {
+  background-color: #338844;
+  margin-top: -0.5em;
+}
+  /* Navigation links*/
+#page-ul-li-select, 
+#page-ul-li-unselect, 
+#page-ul-li-select a, 
+#page-ul-li-unselect a
+  {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+#page-ul-li-unselect a:hover {
+  color: #EA9010;
+}
+#page-ul-li-select a {
+  color:#EA9010;
+}
+
+/* Main */
+#page-main {
+  margin-top: -1em;
+  background-color: white;
+}
+#page-main {
+  margin: 1em;
+}
+/* Main - Facts */
+#ai-background {
+  border-width: 0.5px;
+}
+#ai-machine {
+  text-align: left;
+  border-style: solid;
+}
+#ai-me {
+  text-align: right;
+  border-style: solid;
+}
+
+/* Footer */
+#page-footer {
+  text-align: center;
+}
+#special-text {
+  font-style: italic;
+}
+
+/* Responsiveness */
+  /* Level 1 */
+@media screen and (min-width: 32rem) {
+  #page-ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+}
+  /* Level 2 */
+@media only screen and (min-width: 78rem) {
+
+}
+  /* Level 3 */
+@media only screen and (min-width: 94rem) {
+
+}
+
+
+
